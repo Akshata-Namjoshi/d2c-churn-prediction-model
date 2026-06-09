@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Part 3: Churn Prediction Model
 
 ## 📌 Project Overview
@@ -26,3 +27,6 @@ import joblib
 model = joblib.load('model.pkl')
 # Get a prediction (0 = Stay, 1 = Churn)
 prediction = model.predict(new_customer_data)
+=======
+# d2c-churn-prediction-model
+>>>>>>> ee21b7036de0a08dc7625716445128f8baea0f45
